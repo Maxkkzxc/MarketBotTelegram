@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\MarketBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\forwardmessagetoowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\forwardmessagetoowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\core\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\core\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\core\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\core\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\commandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\commandtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\backcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\backcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\buycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\buycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\sellcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\sellcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|e:\\projects\\marketbot\\marketbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5507B534-974B-4A5F-8223-D0FC4D20BBF9}|MarketBot\\MarketBot.csproj|solutionrelative:marketbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\StartCommand.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\StartCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\BackCommand.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\BackCommand.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\BackCommand.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\BackCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\BuyCommand.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\BuyCommand.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\BuyCommand.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\BuyCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:17.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandType.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\CommandType.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\CommandType.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\CommandType.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\CommandType.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:10.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Core\\Bot.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Core\\Bot.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Core\\Bot.cs",
+              "RelativeToolTip": "MarketBot\\Core\\Bot.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForwardMessageToOwnCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\ForwardMessageToOwnCommand.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\ForwardMessageToOwnCommand.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\ForwardMessageToOwnCommand.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\ForwardMessageToOwnCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Core\\IStrategy.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Core\\IStrategy.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Core\\IStrategy.cs",
+              "RelativeToolTip": "MarketBot\\Core\\IStrategy.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:10.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\SellCommand.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Commands\\SellCommand.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Commands\\SellCommand.cs",
+              "RelativeToolTip": "MarketBot\\Commands\\SellCommand.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\MarketBot\\MarketBot\\Program.cs",
+              "RelativeDocumentMoniker": "MarketBot\\Program.cs",
+              "ToolTip": "E:\\Projects\\MarketBot\\MarketBot\\Program.cs",
+              "RelativeToolTip": "MarketBot\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-25T05:02:21.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
